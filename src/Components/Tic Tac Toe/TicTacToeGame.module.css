@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
+
+* {
+    background-color: rgb(0, 0, 0);
+}
+
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 4rem;
-    color: chocolate;
+    color: rgb(110, 187, 255);
 }
 
 table {
@@ -15,11 +20,11 @@ table {
 td {
     height: 140px;
     width: 140px;
-    border: 5px solid black;
+    border: 5px solid rgb(255, 255, 255);
     border-collapse: collapse;
     text-align: center;
     font-size: 85px;
-    color: rgb(183, 6, 6);
+    color: rgb(255, 42, 42);
 }
 
 
